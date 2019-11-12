@@ -1,6 +1,7 @@
 /**
  * @author Equilibrium
- * Code for: <youtubeID>
+ * Code for: https://youtu.be/yt1DU3jYSsQ
+ * GitHub Code: https://github.com/Equilibrium-Holder/beginner-discord
  */
 
 const Discord = require('discord.js');
