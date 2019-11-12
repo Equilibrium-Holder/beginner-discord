@@ -19,4 +19,4 @@ client.on('message', (message) => {
 
 });
 
-client.login('YOUR_TOKEN');
+client.login('YOUR_SECRET_TOKEN');
